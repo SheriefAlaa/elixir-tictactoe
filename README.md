@@ -16,7 +16,7 @@ git clone git@github.com:gemcfadyen/elixir-tictactoe.git
 ```
 - Navigate to root directory
 ```
-cd elixir-tictactoe/ttt
+cd elixir-tictactoe
 ```
 - Compile the code
 ```
